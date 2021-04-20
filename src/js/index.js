@@ -43,7 +43,7 @@ function render(variables = {}) {
             <li><a href="https://instagram.com/alesanchezr"><i class="fa fa-instagram"></i></a></li>
           </ul>
         </div>
-    `;
+    `;hola 
 }
 
 /**
